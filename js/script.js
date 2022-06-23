@@ -1,4 +1,4 @@
-const globalUrl = "https://dry-mountain-96561.herokuapp.com";
+const globalUrl = "https://weather123231.herokuapp.com";
 
 getLocation();
 loadFavoriteCities();
