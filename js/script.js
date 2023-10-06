@@ -1,4 +1,4 @@
-const globalUrl = "https://weather123231.herokuapp.com";
+const globalUrl = "https://wether-server-solovejko.amvera.io";
 
 getLocation();
 loadFavoriteCities();
