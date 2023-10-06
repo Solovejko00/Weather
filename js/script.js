@@ -1,4 +1,4 @@
-const globalUrl = "https://wether-server-solovejko.amvera.io";
+const globalUrl = "https://weather-server-solovejko.amvera.io";
 
 getLocation();
 loadFavoriteCities();
